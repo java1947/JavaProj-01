@@ -8,10 +8,11 @@ public class WishMsgGenerator {
   
    int a=10;
   public WishMsgGenerator() {
-System.out.println("MessageGenerator() 0- param cons");
+System.out.println("0- param cons");
 }
 
 public String getName() {
+	System.out.println("String Name");
 	return name;
 }
 

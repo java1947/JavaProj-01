@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ait</groupId>
-	<artifactId>Sp01WishMSG</artifactId>
+	<artifactId>Sp01ShowMessage1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Sp01WishMSG</name>
+	<name>01-SpringBootApp</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
