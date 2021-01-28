@@ -7,6 +7,8 @@ public class WishMsgGenerator {
   private Date dat;
   
    int a=10;
+   /*some method */
+   void m1(){}
   public WishMsgGenerator() {
 System.out.println("MessageGenerator() 0- param cons");
 }
