@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ait</groupId>
-	<artifactId>Sp01WishMSG</artifactId>
+	<artifactId>Sp01WishMSG1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Sp01WishMSG</name>
 	<description>Demo project for Spring Boot</description>

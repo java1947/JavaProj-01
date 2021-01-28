@@ -8,7 +8,10 @@ public class WishMsgGenerator {
   
    int a=10;
    /*some method */
-   void m1(){}
+   void m1(){
+	   System.out.println("Add:: "+(a+10));
+	   
+   }
   public WishMsgGenerator() {
 System.out.println("MessageGenerator() 0- param cons");
 }
